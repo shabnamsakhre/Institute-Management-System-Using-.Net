@@ -1,0 +1,26 @@
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Release\account.accdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Release\registration.accdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Release\RTSoft Solutions.exe.config
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Release\RTSoft Solutions.exe
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Release\RTSoft Solutions.pdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Release\RTSoft Solutions.xml
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.vbproj.AssemblyReference.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.vbproj.SuggestedBindingRedirects.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form1.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form10.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form11.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form12.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form2.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form3.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form4.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form5.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form6.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form7.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form8.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Form9.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft_Solutions.Resources.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.vbproj.GenerateResource.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.vbproj.CoreCompileInputs.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.exe
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.xml
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Release\RTSoft Solutions.pdb

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Institute Management System",
+      "appliesTo": "Institute Management System/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-RTSoft Solutions",
+      "appliesTo": "Institute Management System/RTSoft Solutions/",
+      "type": "launch"
+    }
+  ]
+}

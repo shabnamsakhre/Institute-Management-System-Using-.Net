@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-RTSoft Solutions",
+      "appliesTo": "RTSoft Solutions/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Institute Management System",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

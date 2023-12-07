@@ -1,0 +1,49 @@
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\bin\Debug\RTSoft Solutions.exe.config
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\bin\Debug\RTSoft Solutions.exe
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\bin\Debug\RTSoft Solutions.pdb
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\bin\Debug\RTSoft Solutions.xml
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.AssemblyReference.cache
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.SuggestedBindingRedirects.cache
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form1.resources
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form2.resources
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Resources.resources
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.GenerateResource.cache
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.CoreCompileInputs.cache
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.exe
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.xml
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft Solutions.pdb
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form3.resources
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form4.resources
+D:\RTSoft .Net Project\RTSoft Solutions\RTSoft Solutions\bin\Debug\account.accdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Debug\account.accdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Debug\RTSoft Solutions.exe.config
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Debug\RTSoft Solutions.exe
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Debug\RTSoft Solutions.pdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Debug\RTSoft Solutions.xml
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.AssemblyReference.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.SuggestedBindingRedirects.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form1.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form2.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form3.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form4.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Resources.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.GenerateResource.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.vbproj.CoreCompileInputs.cache
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.exe
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.xml
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft Solutions.pdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form5.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form6.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form7.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form8.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form9.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\bin\Debug\registration.accdb
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form10.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form11.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form12.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form13.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form14.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form15.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form16.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form17.resources
+D:\.Net Project\Institute Management System\RTSoft Solutions\obj\Debug\RTSoft_Solutions.Form18.resources
